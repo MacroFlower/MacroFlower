@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MacroFlower
 - 👀 I’m interested in a lot! :D 
-- 🌱 Learning back end now
+- 🌱 Learning backend now
 
 <!---
 MacroFlower/MacroFlower is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
